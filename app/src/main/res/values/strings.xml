@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PayMax</string>
+    <string name="header_text_graphics">Estado actual</string>
+    <string name="statistics_button">Gráfica</string>
+    <string name="report_button">Detalles</string>
+</resources>
